@@ -1,0 +1,178 @@
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\roslyn\csc.exe
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\roslyn\vbc.exe
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\roslyn\VBCSCompiler.exe
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\HelloWorld.WebAPI.dll.config
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\HelloWorld.WebAPI.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\HelloWorld.WebAPI.pdb
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Antlr3.Runtime.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\EntityFramework.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\EntityFramework.SqlServer.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Owin.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Owin.Security.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Owin.Security.Google.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Newtonsoft.Json.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Owin.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Net.Http.Formatting.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.Helpers.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.Http.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.Http.Owin.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.Http.WebHost.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.Mvc.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.Optimization.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.Razor.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.WebPages.Deployment.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.WebPages.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.WebPages.Razor.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\WebGrease.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Newtonsoft.Json.xml
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Net.Http.Formatting.xml
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.Helpers.xml
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.Http.xml
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.Http.WebHost.xml
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.Mvc.xml
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.Optimization.xml
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.Razor.xml
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.WebPages.xml
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.WebPages.Deployment.xml
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.WebPages.Razor.xml
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Antlr3.Runtime.pdb
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\EntityFramework.xml
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\EntityFramework.SqlServer.xml
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Owin.xml
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Owin.Security.xml
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Owin.Security.Google.xml
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.Http.Owin.xml
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\obj\Debug\HelloWorld.WebAPI.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\obj\Debug\HelloWorld.WebAPI.pdb
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Practices.ServiceLocation.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Practices.Unity.Configuration.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Practices.Unity.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Practices.ServiceLocation.pdb
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Practices.ServiceLocation.xml
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Practices.Unity.xml
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Practices.Unity.Configuration.xml
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\HelloWorld.DataServices.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\HelloWorld.DataServices.pdb
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.WebAPI\obj\Debug\HelloWorld.WebAPI.csprojResolveAssemblyReference.cache
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\roslyn\csc.exe
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\roslyn\vbc.exe
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\HelloWorld.WebAPI.dll.config
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\HelloWorld.WebAPI.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\HelloWorld.WebAPI.pdb
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Antlr3.Runtime.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\EntityFramework.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\HelloWorld.DataServices.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Owin.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Owin.Security.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Practices.Unity.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Newtonsoft.Json.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Owin.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.Helpers.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.Http.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.Http.Owin.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.Mvc.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.Optimization.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.Razor.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.WebPages.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\WebGrease.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\HelloWorld.DataServices.pdb
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Practices.Unity.xml
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Newtonsoft.Json.xml
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.Helpers.xml
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.Http.xml
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.Mvc.xml
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.Optimization.xml
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.Razor.xml
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.WebPages.xml
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\EntityFramework.xml
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Owin.xml
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Owin.Security.xml
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\System.Web.Http.Owin.xml
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\obj\Debug\HelloWorld.WebAPI.csprojResolveAssemblyReference.cache
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\obj\Debug\HelloWorld.WebAPI.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\obj\Debug\HelloWorld.WebAPI.pdb
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\HelloWorld.WebAPI.dll.CodeAnalysisLog.xml
+C:\Projects\HelloWorld\src\app\HelloWorld.WebAPI\bin\HelloWorld.WebAPI.dll.lastcodeanalysissucceeded

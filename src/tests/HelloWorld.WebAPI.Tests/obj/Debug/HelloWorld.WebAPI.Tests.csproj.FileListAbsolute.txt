@@ -1,0 +1,148 @@
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\HelloWorld.WebAPI.Tests.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\HelloWorld.WebAPI.Tests.pdb
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\obj\Debug\HelloWorld.WebAPI.Tests.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\obj\Debug\HelloWorld.WebAPI.Tests.pdb
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\HelloWorld.WebAPI.Tests.dll.config
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\HelloWorld.DataServices.dll
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\HelloWorld.WebAPI.dll
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Moq.dll
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Owin.dll
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\EntityFramework.dll
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Web.Http.Owin.dll
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\HelloWorld.DataServices.pdb
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\HelloWorld.WebAPI.pdb
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Moq.xml
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\EntityFramework.xml
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Web.Http.Owin.xml
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\obj\Debug\HelloWorld.WebAPI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Castle.Core.dll
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Castle.Core.xml
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\roslyn\csc.exe
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\roslyn\vbc.exe
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\HelloWorld.WebAPI.Tests.dll.config
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\HelloWorld.WebAPI.Tests.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\HelloWorld.WebAPI.Tests.pdb
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Castle.Core.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\HelloWorld.DataServices.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\HelloWorld.WebAPI.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Moq.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Web.Http.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Owin.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\EntityFramework.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Web.Http.Owin.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\HelloWorld.DataServices.pdb
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\HelloWorld.WebAPI.pdb
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Castle.Core.xml
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Moq.xml
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Web.Http.xml
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\EntityFramework.xml
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Web.Http.Owin.xml
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\obj\Debug\HelloWorld.WebAPI.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\obj\Debug\HelloWorld.WebAPI.Tests.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\obj\Debug\HelloWorld.WebAPI.Tests.pdb
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\HelloWorld.WebAPI.Tests.dll.CodeAnalysisLog.xml
+C:\Projects\HelloWorld\src\tests\HelloWorld.WebAPI.Tests\bin\Debug\HelloWorld.WebAPI.Tests.dll.lastcodeanalysissucceeded

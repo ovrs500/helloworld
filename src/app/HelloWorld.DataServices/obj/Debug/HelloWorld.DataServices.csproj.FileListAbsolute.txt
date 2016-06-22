@@ -1,0 +1,10 @@
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.DataServices\bin\Debug\HelloWorld.DataServices.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.DataServices\bin\Debug\HelloWorld.DataServices.pdb
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.DataServices\obj\Debug\HelloWorld.DataServices.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.DataServices\obj\Debug\HelloWorld.DataServices.pdb
+C:\Projects\HelloWorld\src\app\HelloWorld.DataServices\bin\Debug\HelloWorld.DataServices.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.DataServices\bin\Debug\HelloWorld.DataServices.pdb
+C:\Projects\HelloWorld\src\app\HelloWorld.DataServices\obj\Debug\HelloWorld.DataServices.dll
+C:\Projects\HelloWorld\src\app\HelloWorld.DataServices\obj\Debug\HelloWorld.DataServices.pdb
+C:\Projects\HelloWorld\src\app\HelloWorld.DataServices\bin\Debug\HelloWorld.DataServices.dll.CodeAnalysisLog.xml
+C:\Projects\HelloWorld\src\app\HelloWorld.DataServices\bin\Debug\HelloWorld.DataServices.dll.lastcodeanalysissucceeded

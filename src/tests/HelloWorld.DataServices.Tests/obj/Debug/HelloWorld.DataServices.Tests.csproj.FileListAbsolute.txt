@@ -1,0 +1,28 @@
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\tests\HelloWorld.DataServices.Tests\bin\Debug\HelloWorld.DataServices.Tests.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\tests\HelloWorld.DataServices.Tests\bin\Debug\HelloWorld.DataServices.Tests.pdb
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\tests\HelloWorld.DataServices.Tests\obj\Debug\HelloWorld.DataServices.Tests.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\tests\HelloWorld.DataServices.Tests\obj\Debug\HelloWorld.DataServices.Tests.pdb
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\tests\HelloWorld.DataServices.Tests\bin\Debug\Castle.Core.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\tests\HelloWorld.DataServices.Tests\bin\Debug\Moq.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\tests\HelloWorld.DataServices.Tests\bin\Debug\Castle.Core.xml
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\tests\HelloWorld.DataServices.Tests\bin\Debug\Moq.xml
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\tests\HelloWorld.DataServices.Tests\obj\Debug\HelloWorld.DataServices.Tests.csprojResolveAssemblyReference.cache
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\tests\HelloWorld.DataServices.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\tests\HelloWorld.DataServices.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\tests\HelloWorld.DataServices.Tests\bin\Debug\HelloWorld.DataServices.dll
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\tests\HelloWorld.DataServices.Tests\bin\Debug\HelloWorld.DataServices.pdb
+C:\Projects\HelloWorld\src\tests\HelloWorld.DataServices.Tests\bin\Debug\HelloWorld.DataServices.Tests.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.DataServices.Tests\bin\Debug\HelloWorld.DataServices.Tests.pdb
+C:\Projects\HelloWorld\src\tests\HelloWorld.DataServices.Tests\bin\Debug\Castle.Core.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.DataServices.Tests\bin\Debug\HelloWorld.DataServices.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.DataServices.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.DataServices.Tests\bin\Debug\Moq.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.DataServices.Tests\bin\Debug\HelloWorld.DataServices.pdb
+C:\Projects\HelloWorld\src\tests\HelloWorld.DataServices.Tests\bin\Debug\Castle.Core.xml
+C:\Projects\HelloWorld\src\tests\HelloWorld.DataServices.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Projects\HelloWorld\src\tests\HelloWorld.DataServices.Tests\bin\Debug\Moq.xml
+C:\Projects\HelloWorld\src\tests\HelloWorld.DataServices.Tests\obj\Debug\HelloWorld.DataServices.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\HelloWorld\src\tests\HelloWorld.DataServices.Tests\obj\Debug\HelloWorld.DataServices.Tests.dll
+C:\Projects\HelloWorld\src\tests\HelloWorld.DataServices.Tests\obj\Debug\HelloWorld.DataServices.Tests.pdb
+C:\Projects\HelloWorld\src\tests\HelloWorld.DataServices.Tests\bin\Debug\HelloWorld.DataServices.Tests.dll.CodeAnalysisLog.xml
+C:\Projects\HelloWorld\src\tests\HelloWorld.DataServices.Tests\bin\Debug\HelloWorld.DataServices.Tests.dll.lastcodeanalysissucceeded

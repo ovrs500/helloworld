@@ -1,0 +1,13 @@
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.Console\bin\Debug\HelloWorld.Console.exe.config
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.Console\bin\Debug\HelloWorld.Console.exe
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.Console\bin\Debug\HelloWorld.Console.pdb
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.Console\obj\Debug\HelloWorld.Console.exe
+c:\users\theoverseer\documents\visual studio 2015\Projects\HelloWorld\src\app\HelloWorld.Console\obj\Debug\HelloWorld.Console.pdb
+C:\Users\TheOverseer\Documents\Visual Studio 2015\Projects\HelloWorld\src\app\HelloWorld.Console\obj\Debug\HelloWorld.Console.csprojResolveAssemblyReference.cache
+C:\Projects\HelloWorld\src\app\HelloWorld.Console\bin\Debug\HelloWorld.Console.exe.config
+C:\Projects\HelloWorld\src\app\HelloWorld.Console\obj\Debug\HelloWorld.Console.exe
+C:\Projects\HelloWorld\src\app\HelloWorld.Console\obj\Debug\HelloWorld.Console.pdb
+C:\Projects\HelloWorld\src\app\HelloWorld.Console\bin\Debug\HelloWorld.Console.exe
+C:\Projects\HelloWorld\src\app\HelloWorld.Console\bin\Debug\HelloWorld.Console.pdb
+C:\Projects\HelloWorld\src\app\HelloWorld.Console\bin\Debug\HelloWorld.Console.exe.CodeAnalysisLog.xml
+C:\Projects\HelloWorld\src\app\HelloWorld.Console\bin\Debug\HelloWorld.Console.exe.lastcodeanalysissucceeded
